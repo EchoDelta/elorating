@@ -1,8 +1,8 @@
 {
   "name": "elorating",
   "version": "1.0.0",
-  "description": "Calculate Elo rating",
-  "main": "index.js",
+  "description": "Calculate Elo rating. Supports different K-factor for each player.",
+  "main": "elorating.js",
   "author": "Eirik J. Daling",
   "license": "ISC",
   "dependencies": {
