@@ -1,0 +1,10 @@
+{
+  "name": "elorating",
+  "version": "1.0.0",
+  "description": "Calculate Elo rating",
+  "main": "index.js",
+  "author": "Eirik J. Daling",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
