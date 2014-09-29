@@ -1,10 +1,11 @@
 {
   "name": "elorating",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate Elo rating. Supports different K-factor for each player.",
   "main": "elorating.js",
   "author": "Eirik J. Daling",
   "license": "ISC",
+  "repository": "https://github.com/EchoDelta/elorating.git",
   "dependencies": {
   }
 }
