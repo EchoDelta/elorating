@@ -1,7 +1,7 @@
 var K_DEFAULT = 32;
 
 var getExpected = function (a, b) {
-	return 1 / (1+Math.pow(10, (b-a)/400));
+	return 1 / (1 + Math.pow(10, (b - a) / 400));
 };
 
 var getExpectedScore = function (ratingA, ratingB) {
